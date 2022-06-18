@@ -110,7 +110,17 @@ button:hover{
 .offices__slider{
     display: flex;
     justify-content: space-evenly;
-
+   margin-left: 300px;
+   margin-right: 300px;
+   background-color: #ffffff;
+   border-radius: 12px;
+}
+.offices2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 12px;
 }
 .section4{
     display:flex;
@@ -215,9 +225,13 @@ h5 {
     align-items: center;
 }
 .head1{
-   
-    font-family:'Times New Roman', Times, serif;
+   width: 500px;
+   height: 100px;
+    font-family:'Work Sans', sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
     color: #71d5c7;
+    margin-right: 100px;
 }
 .flag  {
     background-color: #ffffff;
@@ -268,4 +282,25 @@ h5 {
 .png1{
   margin-left: 125px;
   margin-top: 20px;
+}
+.titre {
+   align-items: center;
+   color: #00ccb1;
+   font-family: "work sans" , sans-serif;
+   font-size: x-large;
+   margin-left: 300px;
+   margin-right: 320px;
+}
+.fa9ra{
+    margin-left: 230px;
+    margin-right: 250px;
+    font-size: medium;
+    font-family: "work sans" , sans-serif;
+
+}
+.offices__header{
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+
 }
